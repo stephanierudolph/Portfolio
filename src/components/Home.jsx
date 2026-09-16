@@ -8,4 +8,4 @@ export default function Home() {
             <p>Acappella. Arranging. Mentorship.</p>
         </div>
     );
-}git 
+}
