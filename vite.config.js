@@ -7,5 +7,5 @@ export default defineConfig({
   resolve: {
     dedupe: ['react', 'react-dom', 'react-router-dom']
   },
-  base: 'Portfolio/'
+  base: '/Portfolio/'
 })
