@@ -1,8 +1,8 @@
 export default function Leadership() {
     return(
         <div>
-            <img src="sirens/sirens-candid-talking.jpg" style={{height: 15 + 'em'}} alt="Graduate laying on Simmon's University sign."></img>
-            <img src="/lunar/lunar-group1.jpeg" style={{height: 15 + 'em'}} alt="Graduate laying on Simmon's University sign."></img>
+            <img src="./sirens/sirens-candid-talking.jpg" style={{height: 15 + 'em'}} alt="Graduate laying on Simmon's University sign."></img>
+            <img src="./lunar/lunar-group1.jpeg" style={{height: 15 + 'em'}} alt="Graduate laying on Simmon's University sign."></img>
             <h1>Leadership</h1>
             <h2>The Sirens (A Cappella)</h2>
             <h3>President, Mentor, SGA Representative, Treasurer.</h3>
